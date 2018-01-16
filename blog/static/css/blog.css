@@ -1,0 +1,15 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Jan 15 22:11:44 2018
+
+@author: jarmell
+"""
+
+h1 a {  
+    color: #FXA205;  
+    font-family: 'Lobster';
+      }
+
+body {
+     padding-left: 15px;
+     }
